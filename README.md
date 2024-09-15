@@ -47,3 +47,7 @@ npm install react-icons --save
 ANIMATION
 
 npm install framer-motion
+
+
+for background image
+https://bg.ibelick.com/
